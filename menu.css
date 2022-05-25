@@ -1,0 +1,24 @@
+#button {
+	padding:0;
+	}
+
+	#button li {
+		display:inline;
+		}
+		#button li a {
+			font-family:face;
+			font-size:75px;
+			text-decoration:none;
+			float:left;
+			padding:10px;
+			background-color :#86d7;
+			color :#fff;
+			}
+
+			#button li a:hover{
+			background-color: #2175bc;
+			margin-top: -2;
+			padding-bottom: 10px;]
+			 }
+
+
